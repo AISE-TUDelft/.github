@@ -1,2 +1,2 @@
-# AISE [Ace]:
-AI-enabled Software Engineering
+# AISE [Ace]
+### AI-enabled Software Engineering
