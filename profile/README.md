@@ -1,2 +1,2 @@
 # AISE [Ace]
-### AI-enabled Software Engineering
+### AI-enabled Software Engineering Reseacrh Group
