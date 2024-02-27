@@ -1,2 +1,2 @@
 # .github
-AI-enable SE
+AI-enabled SE
