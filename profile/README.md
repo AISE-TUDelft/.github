@@ -1,6 +1,8 @@
 # AISE [pronounced as Ace]
-## AI-enabled Software Engineering Research Group at the Delft University of Technology, the Netherlands.
-Directed by assistant professor, Dr. [Maliheh Izadi][malii].
+## AI-enabled Software Engineering Research Group
+Delft University of Technology, the Netherlands.
+
+Directed by assistant professor, **Dr. [Maliheh Izadi][malii]**.
 
 ### Current members:
 #### PhD students
