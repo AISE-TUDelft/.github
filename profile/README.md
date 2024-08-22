@@ -3,14 +3,14 @@
 Directed by assistant professor, Dr. [Maliheh Izadi][malii].
 
 ### Current members:
-#### PhD students:
+#### PhD students
 - 2024: [Agnia Sergeyuk][agnias]
 - 2024: [Egor Bogomolov][egorb]
 - 2023: [Jonathan Katzy][jonathank]
 - 2022: [Ali Al-kaswan][alia]
 
-#### Scientific developers:
-- 2024: [Roham Koohestani]
+#### Scientific developers
+- 2024: Roham Koohestani
 - 2023: [Aral de Moor][arald]
 
 #### MSc Students
