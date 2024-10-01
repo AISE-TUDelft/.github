@@ -6,6 +6,7 @@ Directed by assistant professor, **Dr. [Maliheh Izadi][malii]**.
 
 ### Current members:
 #### PhD students
+- 2024: [Daniele Cipollone][danielec]
 - 2024: [Agnia Sergeyuk][agnias]
 - 2024: [Egor Bogomolov][egorb]
 - 2023: [Jonathan Katzy][jonathank]
@@ -36,3 +37,4 @@ Directed by assistant professor, **Dr. [Maliheh Izadi][malii]**.
 [egorb]: https://scholar.google.com/citations?user=rxacRcwAAAAJ&hl=en
 [agnias]: https://scholar.google.com/citations?user=EHnCIIwAAAAJ&hl=en
 [arald]: https://aral.cc/
+[danielec]: https://www.linkedin.com/in/dancip00/
