@@ -23,13 +23,13 @@ Directed by assistant professor, **Dr. [Maliheh Izadi][malii]**.
 - 2024: Andrei Ionesco (intern at JetBrains)
 
 #### Alumni
-- 2023-2024: [Aral de Moor][arald]
-- 2024: Fabio Salerno (MSc)
-- 2022-2024: Tim van Dam (MSc)
-- 2022-2024: Frank van der Heijden (MSc)
-- 2023-2024: Philippe de Bekker (MSc)
-- 2023-2024: Remco Schrijver (MSc)
-- 2022-2023: Ali Al-kaswan (MSc)
+- 2023-2024: [Aral de Moor][arald] (BSc student and scientific developer)
+- 2024: Fabio Salerno (MSc student)
+- 2022-2024: Tim van Dam (MSc student)
+- 2022-2024: Frank van der Heijden (MSc student)
+- 2023-2024: Philippe de Bekker (MSc student)
+- 2023-2024: Remco Schrijver (MSc student)
+- 2022-2023: Ali Al-kaswan (MSc student)
 
 
 [malii]: https://malihehizadi.github.io/PersonalWebsite/
