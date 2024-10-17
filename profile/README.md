@@ -14,21 +14,22 @@ Directed by assistant professor, **Dr. [Maliheh Izadi][malii]**.
 
 #### Scientific developers
 - 2024: Roham Koohestani
-- 2023: [Aral de Moor][arald]
+
 
 #### MSc Students
 - 2025: Nadine Kuo
 - 2025: Razvan Popescu
-- 2025: Yash Mundhra
-- 2024: Andrei Ionesco
+- 2025: Yash Mundhra (intern at ASML)
+- 2024: Andrei Ionesco (intern at JetBrains)
 
 #### Alumni
+- 2023-2024: [Aral de Moor][arald]
 - 2024: Fabio Salerno (MSc)
-- 2024: Tim van Dam (MSc)
-- 2024: Frank van der Heijden (MSc)
-- 2024: Philippe de Bekker (MSc)
-- 2024: Remco Schrijver (MSc)
-- 2022: Ali Al-kaswan (MSc)
+- 2022-2024: Tim van Dam (MSc)
+- 2022-2024: Frank van der Heijden (MSc)
+- 2023-2024: Philippe de Bekker (MSc)
+- 2023-2024: Remco Schrijver (MSc)
+- 2022-2023: Ali Al-kaswan (MSc)
 
 
 [malii]: https://malihehizadi.github.io/PersonalWebsite/
