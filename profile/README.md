@@ -6,6 +6,7 @@ Directed by assistant professor, **Dr. [Maliheh Izadi][malii]**.
 
 ### Current members:
 #### PhD students
+- 2024: Ziyou Li
 - 2024: [Daniele Cipollone][danielec]
 - 2024: [Agnia Sergeyuk][agnias]
 - 2024: [Egor Bogomolov][egorb]
