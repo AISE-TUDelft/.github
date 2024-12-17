@@ -6,15 +6,15 @@ Directed by assistant professor, **Dr. [Maliheh Izadi][malii]**.
 
 ### Current members:
 #### PhD students
-- 2024: Ziyou Li
+- 2024: [Ziyou Li][ziyou]
 - 2024: [Daniele Cipollone][danielec]
 - 2024: [Agnia Sergeyuk][agnias]
 - 2024: [Egor Bogomolov][egorb]
 - 2023: [Jonathan Katzy][jonathank]
 - 2022: [Ali Al-kaswan][alia]
 
-#### Scientific developers
-- 2024: Roham Koohestani
+#### Research Assistants
+- 2024-2025: Roham Koohestani
 
 
 #### MSc Students
@@ -24,8 +24,8 @@ Directed by assistant professor, **Dr. [Maliheh Izadi][malii]**.
 - 2024: Andrei Ionesco (intern at JetBrains)
 
 #### Alumni
-- 2023-2024: [Aral de Moor][arald] (BSc student and scientific developer)
-- 2024: Fabio Salerno (MSc student)
+- 2023-2024: [Aral de Moor][arald] (BSc student+Scientific developer, Now intern at JetBrains)
+- 2024: Fabio Salerno (Visiting MSc student)
 - 2022-2024: Tim van Dam (MSc student)
 - 2022-2024: Frank van der Heijden (MSc student)
 - 2023-2024: Philippe de Bekker (MSc student)
@@ -40,3 +40,4 @@ Directed by assistant professor, **Dr. [Maliheh Izadi][malii]**.
 [agnias]: https://scholar.google.com/citations?user=EHnCIIwAAAAJ&hl=en
 [arald]: https://aral.cc/
 [danielec]: https://www.linkedin.com/in/dancip00/
+[ziyou]: https://li-ziyou.github.io/
