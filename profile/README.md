@@ -20,7 +20,7 @@ Directed by assistant professor, **Dr. [Maliheh Izadi][mali]**.
 #### MSc Students
 - 2025: Nadine Kuo (intern at [JetBrains Research][jetbrains])
 - 2025: Venelina Pocheva (intern at [NXP][nxp])
-- 2025: Yash Mundhra (intern at [ASML[asml])
+- 2025: Yash Mundhra (intern at [ASML][asml])
 - 2024: Razvan Popescu
 
 #### Alumni
