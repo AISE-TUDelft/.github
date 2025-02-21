@@ -6,6 +6,7 @@ Directed by assistant professor, **Dr. [Maliheh Izadi][mali]**.
 
 ### Current members:
 #### PhD students
+- 2025: Razvan Popescu
 - 2024: [Ziyou Li][ziyou]
 - 2024: [Daniele Cipollone][danielec]
 - 2024: [Agnia Sergeyuk][agnias]
@@ -21,9 +22,10 @@ Directed by assistant professor, **Dr. [Maliheh Izadi][mali]**.
 - 2025: Nadine Kuo (intern at [JetBrains Research][jetbrains])
 - 2025: Venelina Pocheva (intern at [NXP][nxp])
 - 2025: Yash Mundhra (intern at [ASML][asml])
-- 2024: Razvan Popescu
+
 
 #### Alumni
+- 2025: Razvan Popescu
 - 2024: Andrei Ionesco (interned at [JetBrains Research][jetbrains], now intern at [Microsoft][microsoft])
 - 2023-2024: [Aral de Moor][arald] (BSc student+Scientific developer, now intern at [JetBrains Research][jetbrains])
 - 2024: Fabio Salerno (Visiting MSc student)
