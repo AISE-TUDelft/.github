@@ -25,15 +25,15 @@ Directed by assistant professor, **Dr. [Maliheh Izadi][mali]**.
 
 
 #### Alumni
-- 2025: Razvan Popescu
-- 2024: Andrei Ionesco (interned at [JetBrains Research][jetbrains], now intern at [Microsoft][microsoft])
-- 2023-2024: [Aral de Moor][arald] (BSc student+Scientific developer, now intern at [JetBrains Research][jetbrains])
-- 2024: Fabio Salerno (Visiting MSc student)
+- 2025: Razvan Popescu (MSc student, next a PhD candidate at TU Delft)
+- 2024: Andrei Ionesco (interned at [JetBrains Research][jetbrains], next an intern at [Microsoft][microsoft])
+- 2023-2024: [Aral de Moor][arald] (BSc student+Scientific developer, next a software engineer at [JetBrains Research][jetbrains])
+- 2024: Fabio Salerno (Visiting MSc student), next software engineer at Blue Reply
 - 2022-2024: Tim van Dam (MSc student, interned at [JetBrains Research][jetbrains])
 - 2022-2024: Frank van der Heijden (MSc student, interned at [JetBrains Research][jetbrains])
-- 2023-2024: Philippe de Bekker (MSc student, now at [Booking.com][booking])
-- 2023-2024: Remco Schrijver (MSc student, interned at [JetBrains Research][jetbrains], now at [Booking.com][booking])
-- 2022-2023: Ali Al-kaswan (MSc student, now PhD at TU Delft)
+- 2023-2024: Philippe de Bekker (MSc student, next software engineer at [Booking.com][booking])
+- 2023-2024: Remco Schrijver (MSc student, interned at [JetBrains Research][jetbrains], next software engineer at [Booking.com][booking])
+- 2022-2023: Ali Al-kaswan (MSc student, now a PhD candidate at TU Delft)
 
 
 [mali]: https://malihehizadi.github.io/PersonalWebsite/
