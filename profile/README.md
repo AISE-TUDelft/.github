@@ -27,7 +27,7 @@ Directed by assistant professor, **Dr. [Maliheh Izadi][mali]**.
 #### Alumni
 - 2025: Razvan Popescu (MSc student, next a PhD candidate at TU Delft)
 - 2024: Andrei Ionesco (interned at [JetBrains Research][jetbrains], next an intern at [Microsoft][microsoft])
-- 2023-2024: [Aral de Moor][arald] (BSc student+Scientific developer, next a software engineer at [JetBrains Research][jetbrains])
+- 2023-2024: [Aral de Moor][arald] (BSc student+Scientific developer, next a machine learning engineer at [JetBrains Research][jetbrains])
 - 2024: Fabio Salerno (Visiting MSc student), next software engineer at Blue Reply
 - 2022-2024: Tim van Dam (MSc student, interned at [JetBrains Research][jetbrains])
 - 2022-2024: Frank van der Heijden (MSc student, interned at [JetBrains Research][jetbrains])
