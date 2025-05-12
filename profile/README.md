@@ -20,8 +20,9 @@ Directed by assistant professor, **Dr. [Maliheh Izadi][mali]**.
 - 2025: Yash Mundhra (intern at [ASML][asml])
 - 2025: Yongcheng Huang 
 
-#### BSc Students/Honours Students
-- 2024-2025: Roham Koohestani
+#### BSc Students/Honours Students/Interns
+- 2024-2025: [Roham Koohestani][rkoohestani] (BSc)
+- 2025: [Yongcheng Huang][yhuang] (Msc)
 
   
 #### Alumni
@@ -45,6 +46,8 @@ Directed by assistant professor, **Dr. [Maliheh Izadi][mali]**.
 [danielec]: https://www.linkedin.com/in/dancip00/
 [ziyou]: https://li-ziyou.github.io/
 [rpopescu]: https://razvain.github.io/
+[rkoohestani]: http://rohamkoohestani.com/
+[yhuang]: https://github.com/D4vidHuang
 [nxp]: https://www.nxp.com/
 [asml]: https://www.asml.nl/
 [jetbrains]: https://www.jetbrains.com/research/
