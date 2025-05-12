@@ -1,5 +1,5 @@
 # AISE [pronounced as Ace]
-## AI-enabled Software Engineering Research Group
+## AI-enabled Software Engineering Research Group ([AISE website][aise])
 Delft University of Technology, the Netherlands.
 
 Directed by assistant professor, **Dr. [Maliheh Izadi][mali]**.
@@ -37,6 +37,7 @@ Directed by assistant professor, **Dr. [Maliheh Izadi][mali]**.
 - 2022-2023: Ali Al-kaswan (MSc student, now a PhD candidate at TU Delft)
 
 
+[aise]: https://malihehizadi.github.io/aise/
 [mali]: https://malihehizadi.github.io/
 [alia]: https://aalkaswan.github.io/
 [jonathank]: https://jkatzy.nl/
