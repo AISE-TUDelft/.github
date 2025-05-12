@@ -44,7 +44,7 @@ Directed by assistant professor, **Dr. [Maliheh Izadi][mali]**.
 [arald]: https://aral.cc/
 [danielec]: https://www.linkedin.com/in/dancip00/
 [ziyou]: https://li-ziyou.github.io/
-[rpopescu] :https://razvain.github.io/
+[rpopescu]: https://razvain.github.io/
 [nxp]: https://www.nxp.com/
 [asml]: https://www.asml.nl/
 [jetbrains]: https://www.jetbrains.com/research/
