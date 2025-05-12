@@ -6,7 +6,7 @@ Directed by assistant professor, **Dr. [Maliheh Izadi][mali]**.
 
 ### Current members:
 #### PhD students
-- 2025: Razvan Popescu
+- 2025: [Razvan Popescu][rpopescu]
 - 2024: [Ziyou Li][ziyou]
 - 2024: [Daniele Cipollone][danielec]
 - 2024: [Agnia Sergeyuk][agnias]
@@ -25,7 +25,7 @@ Directed by assistant professor, **Dr. [Maliheh Izadi][mali]**.
 
   
 #### Alumni
-- 2025: Razvan Popescu (MSc student, now a PhD candidate at TU Delft)
+- 2025: [Razvan Popescu][rpopescu] (MSc student, now a PhD candidate at TU Delft)
 - 2024: Andrei Ionesco (interned at [JetBrains Research][jetbrains], now an intern at [Microsoft][microsoft])
 - 2023-2024: [Aral de Moor][arald] (BSc student+Scientific developer, now a machine learning engineer at [JetBrains Research][jetbrains])
 - 2024: Fabio Salerno (Visiting MSc student), next software engineer at Blue Reply
@@ -44,6 +44,7 @@ Directed by assistant professor, **Dr. [Maliheh Izadi][mali]**.
 [arald]: https://aral.cc/
 [danielec]: https://www.linkedin.com/in/dancip00/
 [ziyou]: https://li-ziyou.github.io/
+[rpopescu] :https://razvain.github.io/
 [nxp]: https://www.nxp.com/
 [asml]: https://www.asml.nl/
 [jetbrains]: https://www.jetbrains.com/research/
