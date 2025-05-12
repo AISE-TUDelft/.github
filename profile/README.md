@@ -36,7 +36,7 @@ Directed by assistant professor, **Dr. [Maliheh Izadi][mali]**.
 - 2022-2023: Ali Al-kaswan (MSc student, now a PhD candidate at TU Delft)
 
 
-[mali]: https://malihehizadi.github.io/PersonalWebsite/
+[mali]: https://malihehizadi.github.io/
 [alia]: https://aalkaswan.github.io/
 [jonathank]: https://jkatzy.nl/
 [egorb]: https://scholar.google.com/citations?user=rxacRcwAAAAJ&hl=en
